@@ -1,7 +1,7 @@
 ## Reporting for investers
 
- :confused: do you buy crypto investment signals?
- :confused: are you unsure about the real quality of these signals?
+ :confused: do you buy crypto investment signals?<br>
+ :confused: are you unsure about the real quality of these signals?<br>
 
 
 ## Reporting for channel owners
