@@ -1,4 +1,4 @@
-## For crypto investers
+## :confused: For crypto investers
  - Do you buy crypto investment signals via Telegram?
  - Are you unsure about the real quality of these signals?
  
