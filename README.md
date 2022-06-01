@@ -1,9 +1,10 @@
 ## Independent reporting for crypto investers
 
- - do you buy crypto investment signals via Telegram?<
+ - do you buy crypto investment signals via Telegram?
  - are you unsure about the real quality of these signals?
  
  ### Findependent bot
+ Using our Telegram bot we will report you about the quality of your signals so you do not need to experiment using your hard earned money.
  
 
 
