@@ -1,8 +1,8 @@
 ## Reporting for investers
 
- :confused: You can use the [editor on GitHub](https://github.com/Findependum/findependum.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ :confused: do you buy crypto investment signals?
+ :confused: are you unsure about the real quality of these signals?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Reporting for channel owners
 
