@@ -2,31 +2,12 @@
  - Do you buy crypto investment signals via Telegram?
  - Are you unsure about the real quality of these signals?
  
- ### Findependent bot
- Using our Telegram bot we will report you about the quality of your signals so you do not need to experiment using your hard earned money.
+### Findependent bot
+Using our Telegram bot we will report you about the quality of your signals so you do not need to experiment using your hard earned money.
  
-
-
 ## Reporting for channel owners
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+= Do you spend too much time reporting the quality of your signals to your followers?
+- Do you want to report the quality of your signals by publishing a realiable independ report?
 
 [Link](url) and ![Image](src)
 ```
