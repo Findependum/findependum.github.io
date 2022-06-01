@@ -1,7 +1,10 @@
-## Reporting for investers
+## Independent reporting for crypto investers
 
- - :confused: do you buy crypto investment signals?<br>
- - :confused: are you unsure about the real quality of these signals?<br>
+ - do you buy crypto investment signals via Telegram?<
+ - are you unsure about the real quality of these signals?
+ 
+ ### Findependent bot
+ 
 
 
 ## Reporting for channel owners
