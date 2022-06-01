@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Reporting for investers
 
 You can use the [editor on GitHub](https://github.com/Findependum/findependum.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
