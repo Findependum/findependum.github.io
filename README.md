@@ -6,7 +6,7 @@
 Using our Telegram bot we will report you about the quality of your signals so you do not need to experiment using your hard earned money.
  
 ## Reporting for channel owners
-= Do you spend too much time reporting the quality of your signals to your followers?
+- Do you spend too much time reporting the quality of your signals to your followers?
 - Do you want to report the quality of your signals by publishing a realiable independ report?
 
 [Link](url) and ![Image](src)
