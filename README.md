@@ -1,8 +1,7 @@
 ## For crypto investers
 - Do all these different crypto investment advices seem contradicting and overwhelming to you?
 - Do you want to know what the realistic returns of your investment could be before you invest?
-- Do you buy crypto investment signals via Telegram?
-- Are you unsure about the real quality of these signals?
+- Are you unsure about the real quality of the crypto investment signals you get via Telegram?
 
 ### Findependum on telegram
 - go to <http://t.me/Findependum>
