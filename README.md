@@ -1,5 +1,3 @@
-layout: page
-
 ## For crypto investers
 - Do all these different crypto investment advices seem contradicting and overwhelming to you?
 - Do you want to know what the realistic returns of your investment could be before you invest?
