@@ -5,7 +5,8 @@
 - Are you unsure about the real quality of these signals?
 
 ### Findependent bot
-:rocket: Using our Telegram bot we will report you personally about the quality of your signals so you do not need to experiment using your hard earned money anymore.
+- Using our Telegram bot we will report you personally about the quality of your signals so you do not need to experiment using your hard earned money anymore.
+- go to http://t.me/findependum
  
 ## For channel owners
 - Do you spend too much time reporting the quality of your signals to your followers?
