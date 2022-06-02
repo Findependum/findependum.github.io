@@ -6,7 +6,8 @@
 #### Findependum on telegram
 - go to <http://t.me/Findependum>
  
-<br> 
+
+
 ## For channel owners
 - Do you spend too much time reporting the quality of your signals to your followers?
 - Do you want to report the quality of your signals by publishing a realiable independ report?
