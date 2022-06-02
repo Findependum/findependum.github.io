@@ -4,7 +4,7 @@
 - Do you buy crypto investment signals via Telegram?
 - Are you unsure about the real quality of these signals?
 
-### Findependent bot
+### Findependent on telegram
 - go to <http://t.me/findependum>
  
 ## For channel owners
