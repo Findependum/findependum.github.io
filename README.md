@@ -5,7 +5,7 @@
 - Are you unsure about the real quality of these signals?
 
 ### Findependent on telegram
-- go to <http://t.me/findependum>
+- go to <http://t.me/Findependum>
  
 ## For channel owners
 - Do you spend too much time reporting the quality of your signals to your followers?
