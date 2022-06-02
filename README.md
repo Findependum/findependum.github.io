@@ -1,6 +1,9 @@
 ## For crypto investers
+:confused: Do all these different crypto investment advices seem contradicting and overwhelming to you?
 :confused: Do you buy crypto investment signals via Telegram?<br>
 :confused: Are you unsure about the real quality of these signals?
+:confused: Do you want to know what the realistic returns of your investment could be?
+
  
 ### Findependent bot
 :rocket: Using our Telegram bot we will report you personally about the quality of your signals so you do not need to experiment using your hard earned money anymore.
