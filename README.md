@@ -13,4 +13,4 @@
 - Do you want to stand out in quality and transparanty without any extra work?
 
 ### Findependent bot
-- go to <http://t.me/findependum>
+- go to <http://t.me/Findependum_bot>
