@@ -1,7 +1,7 @@
-:confused: Do all these different crypto investment advices seem contradicting and overwhelming to you?<br>
-:confused: Do you want to know what the realistic returns of your investment could be before you invest?<br>
-:confused: Do you buy crypto investment signals via Telegram?<br>
-:confused: Are you unsure about the real quality of these signals?<br>
+:confused: Do all these different crypto investment advices seem contradicting and overwhelming to you?
+:confused: Do you want to know what the realistic returns of your investment could be before you invest?
+:confused: Do you buy crypto investment signals via Telegram?
+:confused: Are you unsure about the real quality of these signals?
 
 ## For crypto investers
 
