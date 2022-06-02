@@ -1,5 +1,5 @@
 ## For crypto investers
-:confused: Do you buy crypto investment signals via Telegram?
+:confused: Do you buy crypto investment signals via Telegram?<br>
 :confused: Are you unsure about the real quality of these signals?
  
 ### Findependent bot
